@@ -1,0 +1,19 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.generate-title {
+	.button {
+		background-color: #21759b;
+		color: #fff;
+		padding: 1rem 2rem;
+		width: full;
+		font-weight: 700;
+		border: none;
+		margin: 1rem 2rem;
+		overflow: visible;
+	}
+}
